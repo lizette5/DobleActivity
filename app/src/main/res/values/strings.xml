@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DobleActivity</string>
+    <string name="BotonSiguiente">Saludo</string>
+    <string name="txt1">Main Activity</string>
+</resources>
